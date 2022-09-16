@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/tanminhluong/react_projects.git
+	branch = video-sharing-api
+[submodule "client"]
+	path = client
+	url = https://github.com/tanminhluong/react_projects.git
+	branch = video-client
